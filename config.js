@@ -1,5 +1,5 @@
 const nameGirl = 'Chạm vào xem đi chị 💘';
-const giftUrl = 'https://www.facebook.com/nganngan.tru1303';
+const giftUrl = '#';
 const eventName = 'Món quà 2-9 tặng Chi';
 const titleCard = 'Gửi cho Chị Mít Ướt';
 const contentCard = 'Chúc chị Mít Ướt có ngày 2-9 vui vẻ nhaaa chị ơi. Chúc chị những ngày tháng này mạnh mẽ đúng lúc, yếu đuối đúng khi. Đừng cố gắng nhiều quá. Năm tháng qua chị đã vất vả nhiều rồi, mạnh mẽ lên nào bà zà ưiiiiiiii. Xin lỗi về đôi lúc đã nóng giận với chị nhaaaa, không hiểu chị. Mong là sau này một cuộc sống tràn đầy niềm vui hạnh phúc sẽ đến với chị nhaaa, đừng quên có gì cứ chia sẻ với em nhaaaa, bởi vì sẽ luôn có em bên cạnh chị lúc chị cần mà. Chốt nhaaa! Chúc chị tất cả ngày 2-9 💘💘💘';
