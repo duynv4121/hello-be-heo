@@ -125,7 +125,7 @@ html, body {
     top: 0;
     left: 0;
     transition: transform 400ms;
-    background-size: cover;
+    background-size: contain;
   }
 
   .present-box > .side1 {

@@ -1,8 +1,8 @@
-const nameGirl = 'Chạm vào xem đi chị 💘';
+const nameGirl = 'Chạm vào xem đi Thy 💘';
 const giftUrl = '#';
-const eventName = 'Món quà 2-9 tặng Chi';
-const titleCard = 'Gửi cho Chị Mít Ướt';
-const contentCard = 'Chúc chị Mít Ướt có ngày 2-9 vui vẻ nhaaa chị ơi. Chúc chị những ngày tháng này mạnh mẽ đúng lúc, yếu đuối đúng khi. Đừng cố gắng nhiều quá. Năm tháng qua chị đã vất vả nhiều rồi, mạnh mẽ lên nào bà zà ưiiiiiiii. Xin lỗi về đôi lúc đã nóng giận với chị nhaaaa, không hiểu chị. Mong là sau này một cuộc sống tràn đầy niềm vui hạnh phúc sẽ đến với chị nhaaa, đừng quên có gì cứ chia sẻ với em nhaaaa, bởi vì sẽ luôn có em bên cạnh chị lúc chị cần mà. Chốt nhaaa! Chúc chị tất cả ngày 2-9 💘💘💘';
+const eventName = 'Dạ Duy tặng cho Thy ạ';
+const titleCard = 'Gửi cho cô gái một mét 50 cánh cụt ạ';
+const contentCard = 'Chắc đây là món quà tinh thần mà Duy làm tặng được cho Thy như đã hứa tối qua á, nhạt nhẽo lắm đúng hông. Hông có già đặc bệt hết nhưng mà sau khi xem xong hy vọng Thy sẽ thích nhaaaa. Cũng hông biết nói gì hết á, mà có thể nó chứa được cái tình cảm mà Duy muốn nói qua bài nhạc này. Duy không giỏi gì về ăn nói hết á, nhưng sẽ cố tạo ra các trò vui cho Thy qua các trò như vậy nè. Đọc đến đây được ời hén, có gì lát ra mà inbox kín nhaaaa. Chúc Thy có một buổi tối vui vẻ và ấm áp nha. Mãi iuuuuuuu 💘💘💘';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
