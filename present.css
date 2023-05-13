@@ -129,7 +129,9 @@ html, body {
   }
 
   .present-box > .side1 {
-    background-image: url(./img/anh1.jpg);   
+    background-image: url(./img/anh1.jpg);  
+    background-repeat: no-repeat;
+    background-size: contain;
   }
   .present-box > .side2 {
     background-image: url(./img/anh2.jpg);   
@@ -141,10 +143,10 @@ html, body {
     background-image: url(./img/anh4.jpg);   
   }
   .present-box > .side5 {
-    background-image: url(./img/anh5.jpg);   
+    background-image: url(./img/anh6.jpg);   
   }
   .present-box > .side6 {
-    background-image: url(./img/anh6.jpg);   
+    background-image: url(./img/anh5.jpg);   
   }
 
   .present-box > .side.back {
@@ -166,6 +168,10 @@ html, body {
     text-align: center;
   }
   .present-box > .side.top .to {
+    width: 80%;
+    top: 82px;
+    height: 15px;
+    opacity: 0.7;
     display: inline-block;
     font-family: cursive;
     position: relative;
