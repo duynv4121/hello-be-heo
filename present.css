@@ -65,7 +65,7 @@ html, body {
     transform: translateZ(0px);
   }
   .present-box.open > .side {
-    opacity: 0.3;
+    opacity: 0.0;
     transition: opacity 500ms 600ms;
   }
   .present-box.open > .side.back {
@@ -125,13 +125,12 @@ html, body {
     top: 0;
     left: 0;
     transition: transform 400ms;
-    background-size: contain;
+    background-size: cover;
   }
 
   .present-box > .side1 {
-    background-image: url(./img/anh1.jpg);  
-    background-repeat: no-repeat;
-    background-size: contain;
+    background-image: url(./img/anh1.jpg);
+    background-size: cover;
   }
   .present-box > .side2 {
     background-image: url(./img/anh2.jpg);   
@@ -143,10 +142,10 @@ html, body {
     background-image: url(./img/anh4.jpg);   
   }
   .present-box > .side5 {
-    background-image: url(./img/anh6.jpg);   
+    background-image: url(./img/anh5.jpg);   
   }
   .present-box > .side6 {
-    background-image: url(./img/anh5.jpg);   
+    background-image: url(./img/anh6.jpg);   
   }
 
   .present-box > .side.back {
